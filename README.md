@@ -1,4 +1,4 @@
-# Pure HTML + CSS + JS on Cloudflare Workers
+# Connect Srilanka
 
 A lightweight, zero-build starter for building fast static experiences with vanilla HTML, CSS, and JavaScript, served by a Hono backend on Cloudflare Workers.
 
